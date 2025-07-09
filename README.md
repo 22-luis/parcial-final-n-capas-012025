@@ -5,7 +5,7 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 ### Estudiantes
 - **Nombre del estudiante 1**: LUIS ALFREDO MOLINA RIVERA - 00016720
 - **Nombre del estudiante 2**: CARLOS ANDRES RODRIGUEZ NOVOA - 00402720
-- Sección: [Tu sección aquí]
+- Sección: 01
 ---
 
 ## Sistema de Soporte Técnico
@@ -41,7 +41,7 @@ _Si van a crear mas endpoints como el login o registrarse recuerden actualizar p
 - [ ] Añadir a contexto de seguridad de Spring.
 
 #### Parte 3: Proteger endpoints con Spring Security
-- [ ] Permitir solo el acceso al login sin token.
+- [ ] Permitir solo el acceso al login sin token. ok
 - [ ] Proteger todos los demás endpoints.
 - [ ] Manejar errores de autorización adecuadamente.
 
@@ -52,7 +52,7 @@ _Si van a crear mas endpoints como el login o registrarse recuerden actualizar p
 | USER  | Crear tickets, ver solo sus tickets              |
 | TECH  | Ver todos los tickets, actualizar estado         |
 
-- [ ] Usar `@PreAuthorize` o reglas en el `SecurityFilterChain`.
+- [ ] Usar `@PreAuthorize` o reglas en el `SecurityFilterChain`. ok
 - [ ] Validar que un USER solo vea sus tickets.
 - [ ] Validar que solo un TECH pueda modificar tickets.
 

@@ -1,5 +1,6 @@
 package com.uca.parcialfinalncapas.controller;
 
+import com.uca.parcialfinalncapas.dto.request.AuthRequest;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -16,6 +17,7 @@ public class AuthController {
         // 1. Autenticar credenciales
         // 2. Generar JWT token
         // 3. Retornar token y datos del usuario
+        return null;
     }
 
 }
