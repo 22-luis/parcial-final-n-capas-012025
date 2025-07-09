@@ -1,5 +1,6 @@
 package com.uca.parcialfinalncapas.dto.request;
 
+import com.uca.parcialfinalncapas.entities.Role;
 import lombok.Builder;
 import lombok.Data;
 
@@ -9,5 +10,5 @@ public class UserUpdateRequest {
     private Long id;
     private String nombre;
     private String password;
-    private String nombreRol;
+    private Role nombreRol;
 }
