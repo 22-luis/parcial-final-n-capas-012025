@@ -5,7 +5,7 @@ Este repositorio contiene un proyecto para evaluar y practicar los conceptos de 
 ### Estudiantes
 - **Nombre del estudiante 1**: LUIS ALFREDO MOLINA RIVERA - 00016720
 - **Nombre del estudiante 2**: CARLOS ANDRES RODRIGUEZ NOVOA - 00402720
-- Sección: [Tu sección aquí]
+- Sección: 01
 ---
 
 ## Sistema de Soporte Técnico
